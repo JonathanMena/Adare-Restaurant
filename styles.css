@@ -1,0 +1,46 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.336);
+    background-image: url(images/fondito.jpg);
+    background-size: cover;
+    background-repeat: repeat-y;
+    background-position: center;
+    color: rgb(255, 255, 255);
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    text-decoration: none;
+}
+
+.maps{
+    margin-left: 8%;
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+    background-color: rgba(255, 255, 255, 0.336);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-size: auto;
+}
+
+main{ 
+    text-align: center;
+    padding-top: 20;
+    padding-bottom: 20px;
+}
+
+.cierre{
+    text-align: center;
+
+}
